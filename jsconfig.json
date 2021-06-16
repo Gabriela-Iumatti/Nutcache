@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src"
+    },
+    "include": ["src"]
+  }
+
+  //yarn start add react-router-dom, import in Root.js
